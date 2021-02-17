@@ -9,7 +9,8 @@ sidebar:
     # Profile information
     name: Pedro
     tagline: Data Engineer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    # avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar-link: https://avatars.githubusercontent.com/u/6494632?s=460&u=8f026e0990d5d2163fcff1b777ab574107095394&v=4
 
     # Sidebar links
     # email: 
