@@ -64,11 +64,13 @@ career-profile:
       Second paragraph if required.
 
 education:
+    - degree: Postgraduate in Information and Communication Technologies for Banking Services
+      university: NOVA IMS
+      time: 2011 - 2012
+
     - degree: BSc in Information Management
       university: NOVA IMS
       time: 2007 - 2012
-      # details: |
-        # Details here
 
 experiences:
     - role: Lead Developer
